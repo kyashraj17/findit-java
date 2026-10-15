@@ -1,0 +1,1 @@
+package com.findit.model; public enum ItemType { LOST, FOUND }
